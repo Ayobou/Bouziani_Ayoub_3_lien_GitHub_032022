@@ -25,6 +25,6 @@ public class UserRepository {
     }
 
     public void deleteUser(User user) {
-        // TODO: A modifier
+        // TODO: A modifier plutard
         apiService.deleteUser(user); }
 }
